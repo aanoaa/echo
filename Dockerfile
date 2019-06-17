@@ -1,5 +1,5 @@
 FROM node:10-alpine
-MAINTAINER Hyungsuk Hong <hs.hong@cardoc.co.kr>
+MAINTAINER Hyungsuk Hong <aanoaa@gmail.com>
 
 RUN apk update && apk add --no-cache yarn
 
